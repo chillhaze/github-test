@@ -1,4 +1,4 @@
 # github-test
 git-practice
 
-master-go-main
+master-changed-to-main
